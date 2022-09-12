@@ -1,4 +1,4 @@
-# swaleha-ResposiveWebDesignProjects_FCC 
+# Swaleha-ResposiveWebDesignProjects_FCC 
 
 ResponsiveWebDesignProjects by freeCodeCamp:
 
