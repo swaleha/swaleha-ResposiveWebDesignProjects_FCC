@@ -1,0 +1,101 @@
+body {
+  background-image: linear-gradient(115deg,
+  rgba(58, 58, 158, 0.8),
+  rgba(136, 136, 206, 0.7)), url(https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg);
+  height: 80%;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 0;
+  z-index: -1;
+}
+
+.form-center {
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  font-weight: 400;
+  line-height: 1.2;
+}
+
+p {
+  font-size: 1.125rem;
+}
+header {
+  text-align: center;
+  font-family: Poppins, sans-serif;
+  color: #f3f3f3;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+
+}
+
+.description {
+  font-style: italic;
+  font-weight: 200;
+}
+
+form {
+  background: #1b1b32;
+  padding: 2.5rem 0.625rem;
+  border-radius: 0.25rem;
+  width: 50%;
+  color: #f3f3f3;
+  font-family: Poppins, sans-serif;
+  margin: 0 auto;
+}
+
+label {
+  display: block;
+  align-items: center;
+  font-size: 1.125rem;
+  margin-bottom: 0.5rem;
+}
+
+input, select, textarea {
+  width: 100%;
+  background-color: #f3f3f3;
+  color: black;
+  border-radius: 0.25rem;
+  border: none;
+  box-sizing: border-box;
+  height: 30px;
+}
+
+.input-checkbox, .input-radio {
+  width: unset;
+  margin: 0 0.5em 0 0;
+  vertical-align: middle;
+}
+  input,
+  input::placeholder {
+      font: 15px Poppins;
+  }
+
+
+#comment {
+  height: 80px;
+}
+
+#name, #email, #number, #comment {
+  margin-bottom: 0.5rem;
+}
+
+
+#comment-label {
+  margin-top: 1.5rem;
+}
+
+input[type="submit"] {
+  display: block;
+  width: 100%;
+  border-radius:0.25rem;
+  font-family: Poppins,sans-serif;
+  background-color: #37af65;
+  color: #f3f3f3;
+  border: 2px solid #37af65;
+}
+
