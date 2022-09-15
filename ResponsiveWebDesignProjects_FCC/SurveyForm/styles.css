@@ -75,6 +75,15 @@ input, select, textarea {
       font: 15px Poppins;
   }
 
+  textarea,
+  textarea::placeholder {
+    font: 15px Poppins; 
+  }
+
+  select,
+  select::placeholder {
+    font: 15px Poppins;
+  }
 
 #comment {
   height: 80px;
