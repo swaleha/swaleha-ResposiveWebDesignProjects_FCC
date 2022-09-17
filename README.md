@@ -1,4 +1,4 @@
-# ResposiveWebDesignProjects_FCC
+# Learn ResposiveWebDesignProjects from freeCodeCamp:
 
 1. Learn HTML by Building Cat Photo App
 2. Learn Basic CSS by Building a Cafe Menu
