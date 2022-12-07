@@ -1,4 +1,4 @@
-# Learn ResposiveWebDesignProjects from freeCodeCamp:
+# ResposiveWebDesignProjects:
 
 1. Learn HTML by Building Cat Photo App
 2. Learn Basic CSS by Building a Cafe Menu
